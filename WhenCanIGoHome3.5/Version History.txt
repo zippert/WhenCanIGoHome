@@ -1,0 +1,22 @@
+﻿Version history
+===============
+
+* v1.0
+	First draft
+
+* v1.01
+	Added menu w. exit and about info
+	Disabled resize of main window
+	Handled bug when lunchtime was bigger than Int32 could handle
+	Rounded of "Robintime" with two decimals
+
+* v1.02
+	Flextime calculation
+	Made lunch validation and re-calculation without having to leave the field
+
+* v1.03
+	Small fix for rounding of flex
+	Fixed missing leading zero in flex decimal
+	Implemented automatic saving of times on exit
+	Implemented button to set arrivaltime to present
+	Added checkbox for wrapping days

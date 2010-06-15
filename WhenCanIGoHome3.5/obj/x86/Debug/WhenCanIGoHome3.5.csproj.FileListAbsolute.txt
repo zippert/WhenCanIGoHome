@@ -1,0 +1,11 @@
+C:\Users\mattiaszippert\Documents\Visual Studio 2010\Projects\WhenCanIGoHome3.5\WhenCanIGoHome3.5\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\mattiaszippert\Documents\Visual Studio 2010\Projects\WhenCanIGoHome3.5\WhenCanIGoHome3.5\obj\x86\Debug\WhenCanIGoHome3._5.Properties.Resources.resources
+C:\Users\mattiaszippert\Documents\Visual Studio 2010\Projects\WhenCanIGoHome3.5\WhenCanIGoHome3.5\obj\x86\Debug\GenerateResource-ResGen.read.1.tlog
+C:\Users\mattiaszippert\Documents\Visual Studio 2010\Projects\WhenCanIGoHome3.5\WhenCanIGoHome3.5\obj\x86\Debug\GenerateResource-ResGen.write.1.tlog
+C:\Users\mattiaszippert\Documents\Visual Studio 2010\Projects\WhenCanIGoHome3.5\WhenCanIGoHome3.5\obj\x86\Debug\WhenCanIGoHome.Form1.resources
+C:\Users\mattiaszippert\Documents\Visual Studio 2010\Projects\WhenCanIGoHome3.5\WhenCanIGoHome3.5\obj\x86\Debug\WhenCanIGoHome3._5.AboutBox1.resources
+C:\Users\mattiaszippert\documents\visual studio 2010\Projects\WhenCanIGoHome3.5\WhenCanIGoHome3.5\bin\Debug\WhenCanIGoHome.exe.config
+C:\Users\mattiaszippert\documents\visual studio 2010\Projects\WhenCanIGoHome3.5\WhenCanIGoHome3.5\bin\Debug\WhenCanIGoHome.exe
+C:\Users\mattiaszippert\documents\visual studio 2010\Projects\WhenCanIGoHome3.5\WhenCanIGoHome3.5\bin\Debug\WhenCanIGoHome.pdb
+C:\Users\mattiaszippert\documents\visual studio 2010\Projects\WhenCanIGoHome3.5\WhenCanIGoHome3.5\obj\x86\Debug\WhenCanIGoHome.exe
+C:\Users\mattiaszippert\documents\visual studio 2010\Projects\WhenCanIGoHome3.5\WhenCanIGoHome3.5\obj\x86\Debug\WhenCanIGoHome.pdb
